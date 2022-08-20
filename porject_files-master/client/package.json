@@ -1,0 +1,68 @@
+{
+  "name": "afs",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@popperjs/core": "^2.10.2",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.24.0",
+    "bootstrap": "^5.1.2",
+    "crypto": "^1.0.1",
+    "date-fns": "^2.28.0",
+    "express": "^4.17.1",
+    "firebase": "^9.6.1",
+    "formik": "^2.2.9",
+    "fs": "0.0.1-security",
+    "mdbreact": "^5.1.0",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.0.3",
+    "react-collapsed": "^3.0.2",
+    "react-csv": "^2.2.2",
+    "react-date-range": "^1.4.0",
+    "react-dom": "^17.0.2",
+    "react-google-button": "^0.7.2",
+    "react-icons": "^4.3.1",
+    "react-rounded-image": "^2.0.13",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.3",
+    "react-toastify": "^8.1.0",
+    "styled-components": "^5.3.1",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:5000",
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "This project is a part of Final Year Project of Nisar Ahmad Siddiaui, Asad Sarwar, Noor E Mobeen and Saffar Khan. All rights are reserved by these team members and Sukkur IBA University,Pakistan.",
+  "main": "index.js",
+  "devDependencies": {
+    "react-error-overlay": "^6.0.9"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

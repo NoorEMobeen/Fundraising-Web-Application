@@ -1,0 +1,18 @@
+module.exports=[
+    'nicPassportFront',
+    'nicPassportBack',
+    'institutionAffiliationDocument',
+    'gradeProofDocument',
+    'paidSchoolFeeReceipt',
+    'incomeDocumentProof',
+    'houseOwnershipRentedProof',
+    'electricityBill01',
+    'electricityBill02',
+    'electricityBill03',
+    'gassBill01',
+    'gassBill02',
+    'gassBill03',
+    'telephoneBill01',
+    'telephoneBill02',
+    'telephoneBill03',
+]

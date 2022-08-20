@@ -1,0 +1,1 @@
+module.exports.STRIPE_PRIVATE_KEY='sk_test_51KPU4eFWWR7cshknFgomMlgZkzTwutjxk3kploQaBkMRvRBt23uLmfqrFFShnet1A0twdoiWadTYHXt43WqDHrm100YwyYT9OR';
